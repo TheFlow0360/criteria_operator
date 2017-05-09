@@ -1,8 +1,9 @@
+[![Gem](https://img.shields.io/gem/v/criteria_operator.svg)](https://rubygems.org/gems/criteria_operator)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # CriteriaOperator
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/criteria_operator`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+This gem provides classes to create arbitrary complex conditions, by building an expression tree. ...
 
 ## Installation
 
