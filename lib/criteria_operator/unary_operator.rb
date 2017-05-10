@@ -1,4 +1,4 @@
-require 'base_operator'
+require 'criteria_operator/base_operator'
 
 module CriteriaOperator
 

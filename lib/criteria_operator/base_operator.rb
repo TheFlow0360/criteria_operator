@@ -1,4 +1,4 @@
-require 'exceptions'
+require 'criteria_operator/exceptions'
 
 module CriteriaOperator
 
