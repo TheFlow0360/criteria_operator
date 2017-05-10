@@ -36,5 +36,5 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "minitest", "~> 5.0"
 
   # let yard run on install
-  spec.metadata["yard.run"] = "yri"
+  spec.metadata["yard.run"] = "yardoc"
 end
