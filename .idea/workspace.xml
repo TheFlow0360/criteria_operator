@@ -7,7 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cf9e500e-74a3-4ed4-8e51-31799cafd00a" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/criteria_operator/exceptions.rb" afterPath="$PROJECT_DIR$/lib/criteria_operator/exceptions.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/criteria_operator.iml" afterPath="$PROJECT_DIR$/.idea/criteria_operator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/criteria_operator.gemspec" afterPath="$PROJECT_DIR$/criteria_operator.gemspec" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/criteria_operator/version.rb" afterPath="$PROJECT_DIR$/lib/criteria_operator/version.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/test_helper.rb" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,29 +24,29 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/criteria_operator@Build_this_gem.coverage" NAME="Build this gem Coverage Results" MODIFIED="1494424167767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="criteria_operator" />
     <SUITE FILE_PATH="coverage/criteria_operator@Run_Tests.coverage" NAME="Run Tests Coverage Results" MODIFIED="1494421561855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" MODULE_NAME="criteria_operator" />
-    <SUITE FILE_PATH="coverage/criteria_operator@All_tests_in_test__criteria_operator.coverage" NAME="All tests in test: criteria_operator Coverage Results" MODIFIED="1494424223421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="criteria_operator" />
+    <SUITE FILE_PATH="coverage/criteria_operator@All_tests_in_test__criteria_operator.coverage" NAME="All tests in test: criteria_operator Coverage Results" MODIFIED="1494424430543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="criteria_operator" />
     <SUITE FILE_PATH="coverage/criteria_operator@IRB_console__criteria_operator.coverage" NAME="IRB console: criteria_operator Coverage Results" MODIFIED="1494424180134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="criteria_operator" />
     <SUITE FILE_PATH="coverage/criteria_operator@Install_the_gem.coverage" NAME="Install the gem Coverage Results" MODIFIED="1494424171286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="criteria_operator" />
-    <SUITE FILE_PATH="coverage/criteria_operator@Create_the_YARD_Documentation.coverage" NAME="Create the YARD Documentation Coverage Results" MODIFIED="1494424161391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="criteria_operator" />
+    <SUITE FILE_PATH="coverage/criteria_operator@Create_the_YARD_Documentation.coverage" NAME="Create the YARD Documentation Coverage Results" MODIFIED="1494426005415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="criteria_operator" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="base_operator.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/criteria_operator/base_operator.rb">
+      <file leaf-file-name="criteria_operator.gemspec" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/criteria_operator.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
+            <state relative-caret-position="680">
+              <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="operand_value.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/criteria_operator/operand_value.rb">
+      <file leaf-file-name="base_operator.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/criteria_operator/base_operator.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
+            <state relative-caret-position="306">
+              <caret line="18" column="49" lean-forward="false" selection-start-line="18" selection-start-column="49" selection-end-line="18" selection-end-column="49" />
               <folding />
             </state>
           </provider>
@@ -67,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exceptions.rb" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exceptions.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/criteria_operator/exceptions.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="71" lean-forward="false" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+            <state relative-caret-position="272">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,6 +88,19 @@
             <state relative-caret-position="0">
               <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="102">
+                <caret line="6" column="162" lean-forward="false" selection-start-line="6" selection-start-column="162" selection-end-line="6" selection-end-column="162" />
+                <folding />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -110,8 +128,8 @@
       <file leaf-file-name="test_helper.rb" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+            <state relative-caret-position="170">
+              <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -136,7 +154,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CODE_OF_CONDUCT.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/lib/criteria_operator/enum.rb" />
         <option value="$PROJECT_DIR$/lib/criteria_operator.rb" />
         <option value="$PROJECT_DIR$/lib/criteria_operator/base_operator.rb" />
@@ -147,10 +164,12 @@
         <option value="$PROJECT_DIR$/lib/criteria_operator/operand_property.rb" />
         <option value="$PROJECT_DIR$/test/criteria_operator_test.rb" />
         <option value="$PROJECT_DIR$/test/base_operator_test.rb" />
-        <option value="$PROJECT_DIR$/criteria_operator.gemspec" />
-        <option value="$PROJECT_DIR$/test/test_helper.rb" />
         <option value="$PROJECT_DIR$/test/binary_operator_test.rb" />
         <option value="$PROJECT_DIR$/lib/criteria_operator/exceptions.rb" />
+        <option value="$PROJECT_DIR$/lib/criteria_operator/version.rb" />
+        <option value="$PROJECT_DIR$/test/test_helper.rb" />
+        <option value="$PROJECT_DIR$/criteria_operator.gemspec" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -265,7 +284,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.startup.tasks" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="gemspec&#9;FILE&#9;file://C:/Users/fkoch/Desktop/criteria_operator/criteria_operator.gemspec&#10;re&#9;FILE&#9;file://C:/Users/fkoch/Desktop/criteria_operator/README.md&#10;readm&#9;FILE&#9;file://C:/Users/fkoch/Desktop/criteria_operator/README.md" />
+    <property name="SearchEverywhereHistoryKey" value="gemspe&#9;FILE&#9;file://C:/Users/fkoch/Desktop/criteria_operator/criteria_operator.gemspec&#10;readme&#9;FILE&#9;file://C:/Users/fkoch/Desktop/criteria_operator/README.md&#10;gemspec&#9;FILE&#9;file://C:/Users/fkoch/Desktop/criteria_operator/criteria_operator.gemspec&#10;re&#9;FILE&#9;file://C:/Users/fkoch/Desktop/criteria_operator/README.md&#10;readm&#9;FILE&#9;file://C:/Users/fkoch/Desktop/criteria_operator/README.md" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
   </component>
   <component name="RunDashboard">
@@ -280,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Test::Unit/Shoulda/Minitest.All tests in test: criteria_operator">
+  <component name="RunManager" selected="Gem Command.Create the YARD Documentation">
     <configuration default="true" type="CommandRunConfigurationType" factoryName="Gem Command">
       <module name="" />
       <COMMAND_RUN_CONFIGURATION NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -572,23 +591,11 @@
       <option name="presentableId" value="Default" />
       <updated>1494339147835</updated>
       <workItem from="1494339149077" duration="5916000" />
-      <workItem from="1494401344070" duration="21494000" />
+      <workItem from="1494401344070" duration="23704000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 42m 09s.xml">
-      <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 42m 24s.xml">
-      <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 42m 28s.xml">
-      <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
-    <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 42m 36s.xml">
-      <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
-    </history-entry>
     <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 43m 35s.xml">
       <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
@@ -607,9 +614,21 @@
     <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 50m 23s.xml">
       <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
     </history-entry>
+    <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 53m 20s.xml">
+      <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 53m 34s.xml">
+      <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 53m 42s.xml">
+      <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_tests_in_test__criteria_operator - 2017.05.10 at 15h 53m 50s.xml">
+      <configuration name="All tests in test: criteria_operator" configurationId="TestUnitRunConfigurationType" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27410000" />
+    <option name="totallyTimeSpent" value="29620000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -736,17 +755,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/criteria_operator/criteria_operator.rb" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="9" column="44" lean-forward="false" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/criteria_operator/enum.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -803,14 +811,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/criteria_operator.gemspec">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/criteria_operator/base_operator.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -823,14 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -851,11 +843,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/criteria_operator/version.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/criteria_operator/exceptions.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="71" lean-forward="false" selection-start-line="12" selection-start-column="71" selection-end-line="12" selection-end-column="71" />
+        <state relative-caret-position="272">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="26" lean-forward="false" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/criteria_operator.gemspec">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" column="34" lean-forward="false" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="102">
+            <caret line="6" column="162" lean-forward="false" selection-start-line="6" selection-start-column="162" selection-end-line="6" selection-end-column="162" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

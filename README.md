@@ -1,5 +1,11 @@
-[![Gem](https://img.shields.io/gem/v/criteria_operator.svg)](https://rubygems.org/gems/criteria_operator)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Gem Version](http://img.shields.io/gem/v/criteria_operator.svg?style=flat)](https://rubygems.org/gems/criteria_operator)
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat)](http://TheFlow0360.mit-license.org)
+[![Build Status](http://img.shields.io/travis/TheFlow0360/criteria_operator.svg?style=flat)](https://travis-ci.org/TheFlow0360/criteria_operator)
+[![Dependency Status](http://img.shields.io/gemnasium/TheFlow0360/criteria_operator.svg?style=flat)](https://gemnasium.com/TheFlow0360/criteria_operator)
+[![Code Climate](http://img.shields.io/codeclimate/github/TheFlow0360/criteria_operator.svg?style=flat)](https://codeclimate.com/github/TheFlow0360/criteria_operator)
+[![Coverage Status](https://coveralls.io/repos/github/TheFlow0360/criteria_operator/badge.svg?branch=master)](https://coveralls.io/github/TheFlow0360/criteria_operator?branch=master)
+[![Inline docs](http://inch-ci.org/github/TheFlow0360/criteria_operator.svg?branch=master&style=shields)](http://inch-ci.org/github/TheFlow0360/criteria_operator)[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/958/badge)](https://bestpractices.coreinfrastructure.org/projects/958)
+
 
 # CriteriaOperator
 

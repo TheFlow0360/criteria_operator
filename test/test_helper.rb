@@ -3,8 +3,10 @@ require 'criteria_operator'
 
 require 'minitest/autorun'
 require 'minitest/reporters'
+require 'coveralls'
 
 MiniTest::Reporters.use!
+Coveralls.wear!
 
 # stub class for operators
 class StubOperator < CriteriaOperator::BaseOperator
