@@ -5,6 +5,12 @@ module CriteriaOperator
 
   # Exception class for unimplemented functions in abstract classes.
   class NotImplementedError < Error
-    # TODO: provide meaningful text
+
+    # Overrides the default message with a hint regarding the abstract class instantiation.
+    # @result [String] the error message
+    def message
+      "The function that was called is not implemented. "\
+      "Probably the containing class is abstract but was instantiated."
+    end
   end
 end
