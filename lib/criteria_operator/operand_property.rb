@@ -21,7 +21,7 @@ module CriteriaOperator
     # Implementation of the abstract {BaseOperator#clone}.
     # @return [OperandProperty] the cloned operator
     def clone
-      OperandProperty.new self.value
+      OperandProperty.new self.property_name
     end
   end
 end
