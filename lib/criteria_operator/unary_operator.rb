@@ -14,7 +14,7 @@ module CriteriaOperator
     MINUS = 8
   end
 
-  # Operator representing and unary operation.
+  # Operator representing an unary operation.
   class UnaryOperator < BaseOperator
 
     # @return [UnaryOperatorType] the type of this operator

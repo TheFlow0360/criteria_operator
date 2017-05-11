@@ -24,7 +24,7 @@ module CriteriaOperator
     # @param [GroupOperatorType] group_operator_type the type of this operator
     # @return [Void]
     def initialize(operands = [], group_operator_type = GroupOperatorType::AND)
-      self.operand = operands
+      self.operand_collection = operands
       self.operator_type = group_operator_type
     end
 
