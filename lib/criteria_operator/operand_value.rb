@@ -6,9 +6,10 @@ module CriteriaOperator
   # thus it is always a leaf of the expression tree.
   class OperandValue < BaseOperator
 
-    # @return the stored value.
+    # @return [Object] the stored value.
     attr_accessor :value
 
+    # The constructor for this operand. Expects the value as parameter.
     # @param [Object] value the value of the operand
     # @return [Void]
     def initialize(value)

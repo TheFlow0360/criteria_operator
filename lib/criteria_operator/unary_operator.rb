@@ -23,6 +23,7 @@ module CriteriaOperator
     # @return [BaseOperator] the operand
     attr_accessor :operand
 
+    # The constructor for this operator. Expects the operand and the operator type as parameters.
     # @param [BaseOperator] operand the operand
     # @param [UnaryOperatorType] unary_operator_type the type of this operator
     # @return [Void]

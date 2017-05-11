@@ -6,10 +6,11 @@ module CriteriaOperator
   # This operator is an operand, thus it is always a leaf of the expression tree.
   class OperandProperty < BaseOperator
 
-    # @return the name of the property described by this operand.
+    # @return [String] the name of the property described by this operand.
     attr_accessor :property_name
 
-    # @param [String] property_name the value of the operand
+    # The constructor for the operand. Expects the property name as parameter.
+    # @param [String] property_name the name of the property described by this operand
     # @return [Void]
     def initialize(property_name)
       self.property_name = property_name

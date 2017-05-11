@@ -19,6 +19,7 @@ module CriteriaOperator
     # @return [Array<BaseOperator>] the collection of operands grouped by this operator
     attr_accessor :operand_collection
 
+    # The constructor for this operator. Expects a collection of operands and the operator type as parameters.
     # @param [Array<BaseOperator>] operands a collection of operands to group together
     # @param [GroupOperatorType] group_operator_type the type of this operator
     # @return [Void]

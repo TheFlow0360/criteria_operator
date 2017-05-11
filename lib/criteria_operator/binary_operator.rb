@@ -30,6 +30,7 @@ module CriteriaOperator
     # @return [BaseOperator] the right hand side operand
     attr_accessor :right_operand
 
+    # The constructor for this operator. Expects the operands and the operator type as parameters.
     # @param [BaseOperator] left_operand the left hand side operand
     # @param [BaseOperator] right_operand the right  hand side operand
     # @param [BinaryOperatorType] binary_operator_type the type of this operator
