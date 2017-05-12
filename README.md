@@ -8,7 +8,7 @@
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/958/badge)](https://bestpractices.coreinfrastructure.org/projects/958)
 
 
-# CriteriaOperator````
+# CriteriaOperator
 
 This gem provides classes to create arbitrary complex conditions, by building an expression tree. Currently only basic operations are implemented.
 
@@ -54,7 +54,7 @@ The `BinaryOperator` is the most commonly used. It represents a binary operation
 
 ### GroupOperator
 
-The `GroupOperator` is used to connect an amount of conditions with either `AND` *(default)* or `OR` (see `GroupOperatorType`).
+The `GroupOperator` is used to connect an amount of conditions (`BaseOperator`s) with either `AND` *(default)* or `OR` (see `GroupOperatorType`).
 
 Usage example:
 
@@ -64,7 +64,7 @@ Usage example:
 
 ### UnaryOperator
 
-The `UnaryOperator` is used to perform simple checks or transform a value. It takes on operand as well and has one of the following types:
+The `UnaryOperator` is used to perform simple checks or transform a value represented by an operand (`BaseOperator`). It takes on operand as well and has one of the following types:
  - NOT *(default)*
  - IS NULL
  - Plus
